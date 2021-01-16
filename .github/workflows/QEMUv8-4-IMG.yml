@@ -9,7 +9,7 @@
 #
 
 # 工作流程的名称(可用中文)
-name: Build OpenWrt QEMUv8
+name: QEMUv8 自动安装EMMC
 
 # 工作流程触发条件
 on:
