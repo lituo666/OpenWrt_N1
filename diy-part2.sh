@@ -12,3 +12,6 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.1.2/g' package/base-files/files/bin/config_generate
+
+# 自动勾选添加 一键安装到EMMC脚本，无需手动在menuconfig中勾选
+sed -i 's/# CONFIG_PACKAGE_install-program is not set/CONFIG_PACKAGE_install-program=y/' .config
