@@ -21,3 +21,9 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 # Utilities  --->  
 #   <*> install-program
 git clone https://github.com/tuanqing/install-program package/install-program
+
+# 添加 AdGuard Home
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+
+# 添加 smartdns
+git clone https://github.com/pymumu/smartdns.git package/luci-app-smartdns
