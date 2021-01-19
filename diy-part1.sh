@@ -26,4 +26,4 @@ git clone https://github.com/tuanqing/install-program package/install-program
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 # 添加 smartdns
-git clone https://github.com/pymumu/smartdns.git package/luci-app-smartdns
+# git clone https://github.com/pymumu/smartdns.git package/luci-app-smartdns
