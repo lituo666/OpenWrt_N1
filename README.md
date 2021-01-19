@@ -19,6 +19,7 @@
 |LuCI ---> Applications ---> luci-app-upnp            | 通用即插即用UPnP（端口自动转发）
 |LuCI ---> Applications ---> luci-app-watchcat  	    | 断网检测功能与定时重启
 |LuCI ---> Applications ---> luci-app-wol   	        | WOL网络唤醒
+|LuCI ---> Applications ---> luci-app-adguardhome     | AdGuard Home
 
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
