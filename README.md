@@ -20,6 +20,8 @@
 |LuCI ---> Applications ---> luci-app-watchcat  	    | 断网检测功能与定时重启
 |LuCI ---> Applications ---> luci-app-wol   	        | WOL网络唤醒
 |LuCI ---> Applications ---> luci-app-adguardhome     | AdGuard Home
+|LuCI ---> Applications ---> luci-app-openclash       | Open Clash
 
-
+- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [P3TERX Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
