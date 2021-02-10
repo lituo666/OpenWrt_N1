@@ -21,7 +21,10 @@
 |LuCI ---> Applications ---> luci-app-wol   	        | WOL网络唤醒
 |LuCI ---> Applications ---> luci-app-adguardhome     | AdGuard Home
 |LuCI ---> Applications ---> luci-app-openclash       | Open Clash
+|LuCI ---> Applications ---> luci-app-openvpn         | Open VPN
+|LuCI ---> Applications ---> luci-app-openvpnserver   | Open VPN Server
 
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
 - [P3TERX Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
